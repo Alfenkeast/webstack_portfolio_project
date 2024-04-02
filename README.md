@@ -12,9 +12,7 @@ Technology Stack:
 
 Frontend: HTML, CSS, JavaScript
 
-Backend: 
-
-Python, Flask
+Backend: Python, Flask
 
 Email Integration: 
 SMTP (Gmail)
