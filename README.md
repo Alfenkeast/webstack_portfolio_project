@@ -11,6 +11,12 @@ The Go Tour Webstack Portfolio is designed to serve as an online platform for a 
 Technology Stack:
 
 Frontend: HTML, CSS, JavaScript
-Backend: Python, Flask
-Email Integration: SMTP (Gmail)
+
+Backend: 
+
+Python, Flask
+
+Email Integration: 
+SMTP (Gmail)
+
 Responsive Design: Media Queries
